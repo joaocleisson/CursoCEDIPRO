@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Globalization;
 Console.WriteLine("<-------------------------Início do Exercício----------------------------->");
 
 Console.WriteLine("<----------------------------Exercício 1---------------------------------->");
@@ -183,9 +184,31 @@ Console.WriteLine($"O valor do seu salário é: {salario}");
 Console.WriteLine("<----------------------------Exercício 8---------------------------------->");
 //8. Faça um Programa que peça 2 números inteiros (int) e um número real (double). Calcule e mostre:
 //   a. o produto do dobro do primeiro com metade do segundo.
-//   b. a soma do triplo do primeiro com o terceiro.C. o terceiro elevado ao cubo.
+//   b. a soma do triplo do primeiro com o terceiro.
+//   C. o terceiro elevado ao cubo.
+Console.Write($"{nome}, digite um número inteiro: ");
+int num1 = int.Parse(Console.ReadLine() ?? "0");
+Console.Write("Digite mais um número inteiro: ");
+int num2 = int.Parse(Console.ReadLine() ?? "0");
+Console.Write("Digite mais um número real: ");
+double num3 = double.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine($"O dobro do primeiro número x o segundo equivale a: {num1 * 2 * num2}");
+Console.WriteLine($"O triplo do primeiro número somado com o terceiro equivale a: {num1 * 3 + num3}");
+Console.WriteLine($"O terceiro número elevado ao cubo equivale a: {Math.Pow(num3, 3)}");
 
 Console.WriteLine("<----------------------------Exercício 9---------------------------------->");
+//9. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, 
+// usando a seguinte fórmula: (72,7 * altura) – 58
+    Console.Write($"{nome}, digite sua altura: ");
+    string? altura = Console.ReadLine();
+    if (double.TryParse(altura, NumberStyles.Float, CultureInfo.InvariantCulture, out double alt)){
+        double peso_ideal = (72.7 * alt) - 58;
+        Console.WriteLine($"Seu peso ideal é: {peso_ideal:F2} KG");
+    } else {
+        Console.Write("O valor digitado não é válido para continuação do programa. A execução será finalizada.");
+        Environment.Exit(0);
+    }
+
 
 Console.WriteLine("<----------------------------Exercício 10--------------------------------->");
 

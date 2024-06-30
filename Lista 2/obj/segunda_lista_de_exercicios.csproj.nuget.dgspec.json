@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\DotNet\\Exercícios\\segunda_lista_de_exercicios\\segunda_lista_de_exercicios.csproj": {}
+    "D:\\Estudo\\DotNet\\Exercícios\\Lista 2\\segunda_lista_de_exercicios.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\DotNet\\Exercícios\\segunda_lista_de_exercicios\\segunda_lista_de_exercicios.csproj": {
+    "D:\\Estudo\\DotNet\\Exercícios\\Lista 2\\segunda_lista_de_exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\DotNet\\Exercícios\\segunda_lista_de_exercicios\\segunda_lista_de_exercicios.csproj",
+        "projectUniqueName": "D:\\Estudo\\DotNet\\Exercícios\\Lista 2\\segunda_lista_de_exercicios.csproj",
         "projectName": "segunda_lista_de_exercicios",
-        "projectPath": "D:\\Estudo\\DotNet\\Exercícios\\segunda_lista_de_exercicios\\segunda_lista_de_exercicios.csproj",
+        "projectPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 2\\segunda_lista_de_exercicios.csproj",
         "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\DotNet\\Exercícios\\segunda_lista_de_exercicios\\obj\\",
+        "outputPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config"
