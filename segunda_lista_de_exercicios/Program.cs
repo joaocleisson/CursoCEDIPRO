@@ -162,8 +162,28 @@ if (resposta == "S" || resposta == "s"){
 }
 
 Console.WriteLine("<----------------------------Exercício 7---------------------------------->");
+//7. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. 
+//   Calcule e mostre o total do seu salário no referido mês.
+Console.WriteLine($"{nome}, informe abaixo quanto você ganha por hora e quantas horas trabalha por mês, que retornaremos o valor do seu salário");
+Console.Write("Quanto você ganha por hora: ");
+string? valor_hora_digitado = Console.ReadLine();
+if (!double.TryParse(valor_hora_digitado, out double valor_hora) || valor_hora <= 0 ){
+    Console.Write("O valor digitado não é válido para continuação do programa. A execução será finalizada.");
+    Environment.Exit(0);
+}
+Console.Write("Quantas horas você trabalha por mês: ");
+string? qtde_hora_digitado = Console.ReadLine();
+if (!int.TryParse(qtde_hora_digitado, out int horas_trabalhadas) || horas_trabalhadas <= 0 ){
+    Console.Write("O valor digitado não é válido para continuação do programa. A execução será finalizada.");
+    Environment.Exit(0);
+}
+double salario = valor_hora * horas_trabalhadas;
+Console.WriteLine($"O valor do seu salário é: {salario}");
 
 Console.WriteLine("<----------------------------Exercício 8---------------------------------->");
+//8. Faça um Programa que peça 2 números inteiros (int) e um número real (double). Calcule e mostre:
+//   a. o produto do dobro do primeiro com metade do segundo.
+//   b. a soma do triplo do primeiro com o terceiro.C. o terceiro elevado ao cubo.
 
 Console.WriteLine("<----------------------------Exercício 9---------------------------------->");
 
