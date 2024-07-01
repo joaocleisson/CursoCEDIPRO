@@ -192,7 +192,7 @@ Console.Write("Digite mais um número inteiro: ");
 int num2 = int.Parse(Console.ReadLine() ?? "0");
 Console.Write("Digite mais um número real: ");
 double num3 = double.Parse(Console.ReadLine() ?? "0");
-Console.WriteLine($"O dobro do primeiro número x o segundo equivale a: {num1 * 2 * num2}");
+Console.WriteLine($"O dobro do primeiro número x o segundo equivale a: {num1 * 2 * (num2 / 2)}");
 Console.WriteLine($"O triplo do primeiro número somado com o terceiro equivale a: {num1 * 3 + num3}");
 Console.WriteLine($"O terceiro número elevado ao cubo equivale a: {Math.Pow(num3, 3)}");
 
