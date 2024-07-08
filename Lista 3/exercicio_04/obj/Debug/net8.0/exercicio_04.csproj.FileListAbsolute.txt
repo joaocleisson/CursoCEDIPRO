@@ -1,0 +1,15 @@
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.AssemblyInfoInputs.cache
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.AssemblyInfo.cs
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.csproj.CoreCompileInputs.cache
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.sourcelink.json
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\bin\Debug\net8.0\exercicio_04.exe
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\bin\Debug\net8.0\exercicio_04.deps.json
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\bin\Debug\net8.0\exercicio_04.runtimeconfig.json
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\bin\Debug\net8.0\exercicio_04.dll
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\bin\Debug\net8.0\exercicio_04.pdb
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.dll
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\refint\exercicio_04.dll
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.pdb
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\exercicio_04.genruntimeconfig.cache
+D:\Estudo\DotNet\Exercícios\Lista 3\exercicio_04\obj\Debug\net8.0\ref\exercicio_04.dll
