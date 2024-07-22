@@ -2,7 +2,7 @@
 //    Preencha com 1 a diagonal principal e com 0 os demais elementos. Ao final, escreva a matriz obtida na tela.
 
 using System.Globalization;
-// Criar a matriz 4x4 (4 linhas e 4 colunas)
+// Criar a matriz 5x5 (5 linhas e 5 colunas)
 
 float[,] matrizDiagonalIgualAUm = new float [5,5];
 
