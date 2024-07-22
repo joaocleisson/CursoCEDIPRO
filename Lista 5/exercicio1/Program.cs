@@ -1,6 +1,5 @@
 ﻿// Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
 using System.Globalization;
-//using System.Runtime.InteropServices.Marshalling;
 
 // Iniciar o programa de forma mais organizada
 Console.WriteLine("\n**************************************************************************************************");
