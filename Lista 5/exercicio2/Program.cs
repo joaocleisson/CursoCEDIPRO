@@ -31,7 +31,6 @@ for (int i = 0; i < caracteres.Length; i++)
                 consoantes += caracteres[i];
                 contadorConsoantes++;
             }
-        }
         else
         {
             Console.WriteLine("Entrada inválida. Por favor, digite uma letra.");

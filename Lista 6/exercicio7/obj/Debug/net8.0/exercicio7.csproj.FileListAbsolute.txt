@@ -1,0 +1,15 @@
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\bin\Debug\net8.0\exercicio7.exe
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\bin\Debug\net8.0\exercicio7.deps.json
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\bin\Debug\net8.0\exercicio7.runtimeconfig.json
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\bin\Debug\net8.0\exercicio7.dll
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\bin\Debug\net8.0\exercicio7.pdb
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.AssemblyInfoInputs.cache
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.AssemblyInfo.cs
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.csproj.CoreCompileInputs.cache
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.sourcelink.json
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.dll
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\refint\exercicio7.dll
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.pdb
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\exercicio7.genruntimeconfig.cache
+D:\Estudo\DotNet\Exercícios\Lista 6\exercicio7\obj\Debug\net8.0\ref\exercicio7.dll
