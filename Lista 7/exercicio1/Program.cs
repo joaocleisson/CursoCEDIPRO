@@ -38,12 +38,12 @@ while (true)
         if (dificuldade == "F"){
             Console.WriteLine($"Nível selecionado: Fácil. Tá com medinho, tá? 🤣🤣🤣");
             minValue = 1; maxValue = 10;
-            valorGerado = valor.Next(minValue,maxValue);
+            valorGerado = valor.Next(minValue,maxValue + 1);
             tentativas = 3;
         } else if (dificuldade == "M"){
             Console.WriteLine($"Nível selecionado: Médio. Você vai passar um pouco de aperto, tá preparado? 😬😬😬");
             minValue = 1; maxValue = 50;
-            valorGerado = valor.Next(minValue,maxValue);
+            valorGerado = valor.Next(minValue,maxValue + 1); // + 1 é para incluir o valor superior no processo de geração do código
             tentativas = 4;
         } else if (dificuldade == "D"){
             Console.WriteLine($"Nível selecionado: Difícil. Você deve ter se enganado ou está confiante demais 🤔🤔🤔, mas vamos lá...🫣🫣🫣");
