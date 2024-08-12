@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\DotNet\\Exercícios\\Lista 7\\exercicio1\\exercicio1.csproj": {}
+    "D:\\Estudo\\DotNet\\Exercícios\\Lista 8\\exercicio2\\exercicio2.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\DotNet\\Exercícios\\Lista 7\\exercicio1\\exercicio1.csproj": {
+    "D:\\Estudo\\DotNet\\Exercícios\\Lista 8\\exercicio2\\exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\DotNet\\Exercícios\\Lista 7\\exercicio1\\exercicio1.csproj",
-        "projectName": "exercicio1",
-        "projectPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 7\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "D:\\Estudo\\DotNet\\Exercícios\\Lista 8\\exercicio2\\exercicio2.csproj",
+        "projectName": "exercicio2",
+        "projectPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 8\\exercicio2\\exercicio2.csproj",
         "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 7\\exercicio1\\obj\\",
+        "outputPath": "D:\\Estudo\\DotNet\\Exercícios\\Lista 8\\exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
