@@ -1,0 +1,15 @@
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfoInputs.cache
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfo.cs
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.csproj.CoreCompileInputs.cache
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.sourcelink.json
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\bin\Debug\net8.0\projeto1.exe
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\bin\Debug\net8.0\projeto1.deps.json
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\bin\Debug\net8.0\projeto1.runtimeconfig.json
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\bin\Debug\net8.0\projeto1.dll
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\bin\Debug\net8.0\projeto1.pdb
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.dll
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\refint\projeto1.dll
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.pdb
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\projeto1.genruntimeconfig.cache
+D:\Estudo\DotNet\Exercícios\ProjetoFinal\projeto1\obj\Debug\net8.0\ref\projeto1.dll
